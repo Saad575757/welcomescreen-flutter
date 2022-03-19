@@ -22,7 +22,7 @@ import 'package:flutter/material.dart';
    @override
    Widget build(BuildContext context) {
      return Scaffold(
-       backgroundColor: Color.fromARGB(204, 36, 35, 35),
+       backgroundColor: Color.fromARGB(143, 34, 109, 34),
        body: Container(
          
          child: Column(
